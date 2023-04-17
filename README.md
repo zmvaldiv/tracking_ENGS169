@@ -2,6 +2,6 @@
 tracking and visualization code for the course ENGS169 at Dartmouth College 
 
 Functions include:
--Pressure sensor 
--Image alignment/mapping 
+- Pressure sensor 
+- Image alignment/mapping 
 - tbd 
