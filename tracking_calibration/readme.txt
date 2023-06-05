@@ -1,3 +1,9 @@
+CAD FILES:
+All necessary CAD files can be found at:
+https://cad.onshape.com/documents/2c4d481847ee4e77d08d8edb/w/dc69158cdf2199aaff2963a7/e/71a8c64b8cfca10df6c83b66?renderMode=0&uiState=647cb472180bea11e237f8ad
+
+This linked document includes CAD files for the original probe design and the new probe designed in ENGS 169. The necessary STL files can be found within each probe's respective folder/test-date folder. 
+
 CALIBRATION:
 The following files are from calibration protocol for both the new flexable probe and old probe. 
 Both calibration protocols are run with the coil being taped to the outside of the probe.
