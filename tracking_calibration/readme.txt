@@ -21,4 +21,4 @@ https://github.com/treelinemike/tracker-serial-interface/tree/main
 
 Mike Kokko has created a server and written documentation for collecting Aurora EM tracking data into MATLAB. 
 
-The group has tested the server and collecting data with the coil with success. No data was saved during this test run. 
+The group has successfully tested the server and collected data with the coil. No data was saved during this test run. 
