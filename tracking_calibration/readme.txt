@@ -19,6 +19,16 @@ For each probe, all the files necessary are included in the respective folder.
 
 Please refer to Calibration_Protocol.pdf for detailed explanation of how to calibrate a new probe.
 
+Validation:
+Once calibrated, provided is a grid with known spacing to determine your registration error.
+
+Print out: calib.io_circles_200x150_8x10_18_8.33.pdf 
+Place probe different points.
+Save the tracking data for these points and compare with known distances.
+
+Due to printing, the scale might be slightly off. ALWAYS confirm circle diameter and spacing with a ruler. 
+It is recommended to ALWAYS use the grid to validate tracking accuracy.
+
 
 TRACKING:
 For all tracking files and directions, please refer to:
