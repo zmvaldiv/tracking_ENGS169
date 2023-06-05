@@ -1,3 +1,4 @@
+CALIBRATION:
 The following files are from calibration protocol for both the new flexable probe and old probe. 
 Both calibration protocols are run with the coil being taped to the outside of the probe.
 
@@ -11,3 +12,13 @@ To update the matrix,
 For each probe, all the files necessary are included in the respective folder. 
 
 Please refer to Calibration_Protocol.pdf for detailed explanation of how to calibrate a new probe.
+
+
+TRACKING:
+For all tracking files and directions, please refer to:
+
+https://github.com/treelinemike/tracker-serial-interface/tree/main
+
+Mike Kokko has created a server and written documentation for collecting Aurora EM tracking data into MATLAB. 
+
+The group has tested the server and collecting data with the coil with success. No data was saved during this test run. 
