@@ -2,7 +2,7 @@ CAD FILES:
 All necessary CAD files can be found at:
 https://cad.onshape.com/documents/2c4d481847ee4e77d08d8edb/w/dc69158cdf2199aaff2963a7/e/71a8c64b8cfca10df6c83b66?renderMode=0&uiState=647cb472180bea11e237f8ad
 
-This linked document includes CAD files for the original probe design and the new probe designed in ENGS 169. The necessary STL files can be found within each probe's respective folder/test-date folder. 
+This linked document includes CAD files for the original probe design and the new probe designed in ENGS 169. The necessary STL files can be found within each probe's respective folder/test-date folder. 3D-printing the target plates is necessary for calibration.
 
 CALIBRATION:
 The following files are from calibration protocol for both the new flexable probe and old probe. 
@@ -19,14 +19,23 @@ For each probe, all the files necessary are included in the respective folder.
 
 Please refer to Calibration_Protocol.pdf for detailed explanation of how to calibrate a new probe.
 
-Validation:
-Once calibrated, provided is a grid with known spacing to determine your registration error.
-
-Print out: calib.io_circles_200x150_8x10_18_8.33.pdf 
-Place probe different points.
-Save the tracking data for these points and compare with known distances.
+VALIDATION:
+Once calibrated, provided is a grid with known spacing to determine your registration error. The target plate can be used for determining rotation accuracy.
 
 Due to printing, the scale might be slightly off. ALWAYS confirm circle diameter and spacing with a ruler. 
+
+Translation:
+Print out calib.io_circles_200x150_8x10_18_8.33.pdf 
+Place probe different circle points on the grid.
+Save the tracking data for these points and compare with known distances.
+
+Rotation:
+3D-print the target plate.
+Place probes at different angles aligned with the various angles on the target.
+Save the tracking data for these points and compare with known angles.
+
+Additionally, 3D slicer has a camera view for immediate feedback on tracking accuracy via the models. The view and model are not quantified, nor guarenteed to be accurate. 
+
 It is recommended to ALWAYS use the grid to validate tracking accuracy.
 
 
