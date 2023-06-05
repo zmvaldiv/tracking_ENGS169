@@ -1,5 +1,5 @@
 # tracking_ENGS169
-Tracking and Visualization code for the course ENGS169 at Dartmouth College 
+Tracking and Visualization submission materials for the course ENGS169 at Dartmouth College. 
 
 Within this repository, you can find:
 
