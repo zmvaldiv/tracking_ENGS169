@@ -14,5 +14,7 @@ Within this repository, you can find:
 Please reach out with any questions. 
 
 Pressure Sensing: John Berry (john.f.berry.iii.23@dartmouth.edu)
+
 GUI: Pritom Chowdhury (pritom.chowdhury.th@dartmouth.edu)
+
 Tracking and Calibration: Zenia Valdiviezo (zenia.m.valdiviezo.th@dartmouth.edu)
